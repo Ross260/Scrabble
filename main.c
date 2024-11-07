@@ -179,7 +179,7 @@ int main()
 
             case 2:
                 
-               printf("\n Salut si tu est ici c est que tu a besoin d'aide tu trouveras tous les informations dont tu besoin.\n \n");
+               printf("\n Salut, si tu est ici c'est que tu a besoin d'aide. Tu trouveras toutes les informations dont tu as besoin.\n \n");
                  printf("\033[31m Joueurs \033[39m");
                   printf("\n Il y a 2 joueurs, 3 joueurs ou 4 joueurs possibles dans une partie. Les joueurs jouent a tour de role");
                          printf("\n tel que defini dans les regles. C est le joueur1 qui commence. Le nombre de joueurs est saisi avant");
