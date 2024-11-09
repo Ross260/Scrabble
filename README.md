@@ -1,4 +1,4 @@
-# Scrabble
+# Scrabble Game
 
 Scrabble is a classic board game in which players form words by placing letters on a 15x15 square board. 
 
